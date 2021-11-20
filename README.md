@@ -1,3 +1,7 @@
+# recommendation system project
+it's for one of my lessons(practical linear algebra)that was based on the book below(i forked the repository in this repository). the method was implemented with new programming language julia. (in the recommendersystem.ipynb)
+
+
 # VMLS-Python-and-Julia-Companion
 *This is a companion to the Julia companion for:
 "Vectors, Matrices, and Least Squares" by Boyd and Vandenberghe. Which you can find here: http://vmls-book.stanford.edu/.

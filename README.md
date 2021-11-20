@@ -1,5 +1,5 @@
 # recommendation system project
-it's for one of my lessons(practical linear algebra)that was based on the book below(i forked the repository in this repository). the method was implemented with new programming language julia. (in the recommender.ipynb)
+it's for one of my lessons(applied linear algebra)that was based on the book below(i forked the repository in this repository). the method was implemented with new programming language julia. (in the recommender.ipynb)
 
 
 # VMLS-Python-and-Julia-Companion
